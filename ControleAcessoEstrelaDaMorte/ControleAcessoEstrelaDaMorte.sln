@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleAcessoEstrelaDaMorte", "ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte.csproj", "{6CFF873F-C25D-4AE2-B7E6-3E9E92EAFD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFF873F-C25D-4AE2-B7E6-3E9E92EAFD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFF873F-C25D-4AE2-B7E6-3E9E92EAFD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFF873F-C25D-4AE2-B7E6-3E9E92EAFD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFF873F-C25D-4AE2-B7E6-3E9E92EAFD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F448F7-B178-49CA-ABD1-F676E6B7029F}
+	EndGlobalSection
+EndGlobal
